@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <meta charset='utf-8'>
+    <title>LAYOUR-STICHES</title>
+</head>
+<body>
+    <main>
+        <h1>LAYOUR STICHES</h1>
+    <section>
+        <h2><b>We sew, you wear</b></h2>
+        <p>We sew different <strong>clothes</strong>for your <mark>outfits</mark></p>
+        <h3>Types of clothes that we <em>sew</em> are listed below:</h3>
+        <ul>
+            <li>Hijabs</li>
+            <li>Gowns</li>
+            <li>Abaya</li>
+            <li>Kinomo</li>
+            <li>Children gowns</li>
+            <li>Hijabs accessiories and many more</li>
+        </ul>
+        <p>We sell our clothes and outfits for cheapers prices</p>
+        <h2>WE SELL<mark>QUALITY</mark>NOT QUANTITY</h2>
+    </section>
+    </main>
+    <footer>
+        <p>
+        No Copyright - <a href-blank='https://www.LayourStiches.org'> LayourStiches.org</a>
+        </p>  
+    </footer>
+</body>
+</html>
